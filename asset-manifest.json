@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MetaVirusWeb_Formal/static/css/main.2e343d19.css",
-    "main.js": "/MetaVirusWeb_Formal/static/js/main.93e09cea.js",
+    "main.js": "/MetaVirusWeb_Formal/static/js/main.bc8ad8db.js",
     "static/js/787.40c0fefa.chunk.js": "/MetaVirusWeb_Formal/static/js/787.40c0fefa.chunk.js",
     "static/media/planet_bg_1.png": "/MetaVirusWeb_Formal/static/media/planet_bg_1.10dbbd4cde805bd785e6.png",
     "static/media/planet_bg_2.png": "/MetaVirusWeb_Formal/static/media/planet_bg_2.326c2b9d1cb070e77bc2.png",
     "index.html": "/MetaVirusWeb_Formal/index.html",
     "main.2e343d19.css.map": "/MetaVirusWeb_Formal/static/css/main.2e343d19.css.map",
-    "main.93e09cea.js.map": "/MetaVirusWeb_Formal/static/js/main.93e09cea.js.map",
+    "main.bc8ad8db.js.map": "/MetaVirusWeb_Formal/static/js/main.bc8ad8db.js.map",
     "787.40c0fefa.chunk.js.map": "/MetaVirusWeb_Formal/static/js/787.40c0fefa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e343d19.css",
-    "static/js/main.93e09cea.js"
+    "static/js/main.bc8ad8db.js"
   ]
 }
