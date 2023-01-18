@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MetaVirusWeb_Formal/static/css/main.434ba0bf.css",
-    "main.js": "/MetaVirusWeb_Formal/static/js/main.9ba383f3.js",
+    "main.css": "/MetaVirusWeb_Formal/static/css/main.4c4c996b.css",
+    "main.js": "/MetaVirusWeb_Formal/static/js/main.13ea3117.js",
     "static/js/787.40c0fefa.chunk.js": "/MetaVirusWeb_Formal/static/js/787.40c0fefa.chunk.js",
     "static/media/planet_bg_1.png": "/MetaVirusWeb_Formal/static/media/planet_bg_1.10dbbd4cde805bd785e6.png",
     "static/media/planet_bg_2.png": "/MetaVirusWeb_Formal/static/media/planet_bg_2.326c2b9d1cb070e77bc2.png",
     "index.html": "/MetaVirusWeb_Formal/index.html",
-    "main.434ba0bf.css.map": "/MetaVirusWeb_Formal/static/css/main.434ba0bf.css.map",
-    "main.9ba383f3.js.map": "/MetaVirusWeb_Formal/static/js/main.9ba383f3.js.map",
+    "main.4c4c996b.css.map": "/MetaVirusWeb_Formal/static/css/main.4c4c996b.css.map",
+    "main.13ea3117.js.map": "/MetaVirusWeb_Formal/static/js/main.13ea3117.js.map",
     "787.40c0fefa.chunk.js.map": "/MetaVirusWeb_Formal/static/js/787.40c0fefa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.434ba0bf.css",
-    "static/js/main.9ba383f3.js"
+    "static/css/main.4c4c996b.css",
+    "static/js/main.13ea3117.js"
   ]
 }
