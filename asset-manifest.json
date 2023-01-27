@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MetaVirusWeb_Formal/static/css/main.99d455e8.css",
-    "main.js": "/MetaVirusWeb_Formal/static/js/main.68fd2104.js",
+    "main.js": "/MetaVirusWeb_Formal/static/js/main.a9ed69aa.js",
     "static/js/787.40c0fefa.chunk.js": "/MetaVirusWeb_Formal/static/js/787.40c0fefa.chunk.js",
     "static/media/gameVideo.mp4": "/MetaVirusWeb_Formal/static/media/gameVideo.937e32cdf19d9ec5d6b1.mp4",
     "static/media/homeBg.png": "/MetaVirusWeb_Formal/static/media/homeBg.9df898a0465ed75b698b.png",
@@ -9,11 +9,11 @@
     "static/media/planet_bg_2.png": "/MetaVirusWeb_Formal/static/media/planet_bg_2.326c2b9d1cb070e77bc2.png",
     "index.html": "/MetaVirusWeb_Formal/index.html",
     "main.99d455e8.css.map": "/MetaVirusWeb_Formal/static/css/main.99d455e8.css.map",
-    "main.68fd2104.js.map": "/MetaVirusWeb_Formal/static/js/main.68fd2104.js.map",
+    "main.a9ed69aa.js.map": "/MetaVirusWeb_Formal/static/js/main.a9ed69aa.js.map",
     "787.40c0fefa.chunk.js.map": "/MetaVirusWeb_Formal/static/js/787.40c0fefa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99d455e8.css",
-    "static/js/main.68fd2104.js"
+    "static/js/main.a9ed69aa.js"
   ]
 }
